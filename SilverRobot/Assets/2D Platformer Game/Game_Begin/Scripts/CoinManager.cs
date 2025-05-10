@@ -19,7 +19,7 @@ namespace Udacity.GameDevelopment.PlatformerGame.Game_Begin {
 
         // Update is called once per frame
         void Update() {
-            coinText.text = "Coins: " + coinCount.ToString() + " / " + totalCoins.ToString();
+            coinText.text = "Score: " + coinCount.ToString() + " / " + totalCoins.ToString();
         }
     }
 

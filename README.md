@@ -4,7 +4,7 @@
 
 **DOWNLOAD: [GameDesignDocument.pdf](./GameDesignDocument.pdf)**
 
-**YouTube Video: [https://youtu.be/kGaE9lPrvA8](https://youtu.be/kGaE9lPrvA8)**
+**YouTube Video: [https://youtu.be/AbwUgsrMmzA](https://youtu.be/AbwUgsrMmzA)**
 
 **GitHub Repository: [https://github.com/jckuri/mini_robot](https://github.com/jckuri/mini_robot)**
 
@@ -37,6 +37,8 @@ Motion parallax has 3 layers:
 
 **Midground layer**
 
+The midground layer contains all the blocks, coins, the crate, and the initial position of silver robot. It has the structure of the video game.
+
 <img src="images/tilemap.png"/>
 
 **Cloud layer**
@@ -47,7 +49,9 @@ The cloud layer has fully transparent pixels, partially transparent pixels, and 
 
 **Background layer**
 
-<img src="images/woods.png"/>
+The background is simple and futuristic like silver robot.
+
+<img src="images/background.png"/>
 
 The game has blocks, fires, coins, a crate, and the player Silver Robot.
 
@@ -82,6 +86,40 @@ The main character is Silver Robot who has to avoid the fires and collect all th
 order to win the video game. Correctly using the crate in the game is mandatory. Otherwise you
 won’t be able to collect some coins. The video game has many blocks which create the
 structure of the virtual world.
+
+Here are the sources for the audio in the video game. As you can see they are free to use.
+
+Depth Charge - Critical Battery Alarm.wav<br/>
+https://freesound.org/people/liquidhot/sounds/98365/ <br/>
+(This is the game over sound.)
+
+Robot Love Scream.flac<br/>
+https://freesound.org/people/qubodup/sounds/197256/ <br/>
+(This is the winning sound.)
+
+Collecting Coins<br/>
+https://freesound.org/people/Philip_Berger/sounds/693840/ <br/>
+(This is the sound of collecting coins.)
+
+Robot Jump 2.wav<br/>
+https://freesound.org/people/Modus7/sounds/238282/ <br/>
+(This is the sound for jumps.)
+
+Here are the sources for the visual art in the video game. As you can see they are free to use.
+
+Future city futuristic buildings with glass facade Free Vector<br/>
+https://www.vecteezy.com/vector-art/15485710-future-city-futuristic-buildings-with-glass-facade <br/>
+(This is the futuristic background.)
+
+Cloud PNG image with transparent background | cloud_PNG112204.png<br/>
+https://pngimg.com/image/112204 <br/>
+(These are the clouds.)
+
+Rotating Coin<br/>
+https://opengameart.org/content/rotating-coin <br/>
+(These are the sprites for the coins.)
+
+I drew pixel by pixel the sprites for the silver robot, the fires, the blocks, and the crate. And that’s why they are very simplistic and imperfect. It’s my own honest work.
 
 
 ### Game Mechanics
