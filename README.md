@@ -57,9 +57,9 @@ The game has blocks, fires, coins, a crate, and the player Silver Robot.
 
 The UI has 3 elements:
 
-*​ The Restart button;
-*​ a text with information about the coins collected and the total amount of coins to be collected;
-*​ and a text with status information about game instructions, winning, and game over.
+- The Restart button;<br/>
+- a text with information about the coins collected and the total amount of coins to be collected;<br/>
+- and a text with status information about game instructions, winning, and game over.
 
 <img src="images/game.png"/>
 
